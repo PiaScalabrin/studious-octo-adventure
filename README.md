@@ -1,2 +1,2 @@
 # studious-octo-adventure
-Hello iwr lernen wie man das macht
+Hello wir lernen wie man das macht
